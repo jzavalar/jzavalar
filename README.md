@@ -21,6 +21,7 @@ Me interesa el trabajo docente desde el año 2000 en que, por primera vez, impar
 
 -=***=-
 
+<img src="http://sgpwe.izt.uam.mx/files/users/uami/jzavalar/P1080194-r_550.jpg" alt="" width="550" height="269">
 
 -=***=-
 
