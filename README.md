@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Presentación
 
-Me interesa el trabajo docente desde el año 2000 en que, por primera vez, impartí una materia a nivel licenciatura en la Universidad LaSalle de la Ciudad de México. Luego, en los cinco años siguientes, impartí clases de posgrado en Computación, en distintos lugares de México, para la Fundación Arturo Rosenblueth. Esa experiencia muy grata y me llevó, de manera definitiva, a abandonar la industria y convertirme en un académico.
+Me interesa el trabajo docente desde el año 2000 en que, por primera vez, impartí una materia a nivel licenciatura en la Universidad LaSalle de la Ciudad de México. Luego, en los cinco años siguientes, impartí clases de posgrado en Computación, en distintos lugares de México, para la Fundación Arturo Rosenblueth. Esa experiencia muy grata y me llevó, de manera definitiva, a abandonar la industria y convertirme en un académico.  
 
 -=***=-
 
@@ -24,9 +24,9 @@ Me interesa el trabajo docente desde el año 2000 en que, por primera vez, impar
 
 -=***=-
 
-Como paréntesis, les confieso que mi querido maestro y mentor, el Ing. Fernando Martínez Sáinos, doctor *honoris causa* por la [Universidad Autónoma Chapingo](https://www.chapingo.mx/), mi *Alma Mater*, es mi inspiración. El maestro Sáinos falleció en enero del 2000 y convivir con él me dejó un profundo impacto en mí. Hoy, aspiro a seguir su ejemplo de generosidad y cultivar mi vocación por la docencia con la pasión que él desplegaba en el salón de clases.
+Como paréntesis, les confieso que mi querido maestro y mentor, el Ing. Fernando Martínez Sáinos, doctor *honoris causa* por la [Universidad Autónoma Chapingo](https://www.chapingo.mx/), mi *Alma Mater*, es mi inspiración. El maestro Sáinos falleció en enero del 2000 y convivir con él me dejó un profundo impacto en mí. Hoy, aspiro a seguir su ejemplo de generosidad y cultivar mi vocación por la docencia con la pasión que él desplegaba en el salón de clases.  
 
-Mi querido Maestro también me regaló la generosidad de su amistad, una gran distinción. Recuerdo con nostalgia, cuando él me platicaba su visión del panorama de este nuestro sufrido México y de su querido Chapingo, en la sala de su casa, acompañado de un café, unas galletas y una rica conversación, hilada por recuerdos de su juventud como estudiante. A él le debo mi pasión por la irrigación y la ingeniería como "ciencia de la resolución de problemas", como él decía y mi pasión por la docencia.
+Mi querido Maestro también me regaló la generosidad de su amistad, una gran distinción. Recuerdo con nostalgia, cuando él me platicaba su visión del panorama de este nuestro sufrido México y de su querido Chapingo, en la sala de su casa, acompañado de un café, unas galletas y una rica conversación, hilada por recuerdos de su juventud como estudiante. A él le debo mi pasión por la irrigación y la ingeniería como "ciencia de la resolución de problemas", como él decía y mi pasión por la docencia.  
 
 -=***=-
 
@@ -34,7 +34,7 @@ Mi querido Maestro también me regaló la generosidad de su amistad, una gran di
 
 -=***=-
 
-Aquí se encuentran los programas de mis cursos en las licenciaturas en geografía humana, administración, ciencia política y psicología social y del doctorado en estudios organizacionales, que he desarrollado para mis alumnos de la  [Universidad Autónoma Metropolitana](); sin embargo, dichos programas pueden ser de interés para el público en general. Cabe aclarar que en estos programas de estudio, muy pocas referencias bibliográficas no están disponibles en Internet.
+Aquí se encuentran los programas de mis cursos en las licenciaturas en geografía humana, administración, ciencia política y psicología social y del doctorado en estudios organizacionales, que he desarrollado para mis alumnos de la  [Universidad Autónoma Metropolitana](); sin embargo, dichos programas pueden ser de interés para el público en general. Cabe aclarar que en estos programas de estudio, muy pocas referencias bibliográficas no están disponibles en Internet.  
 
 -=***=-
 
@@ -58,3 +58,4 @@ prof. dr. Jesús Zavala Ruiz
 
 email: [jzr @ xanum.uam.mx](mailto:jzr@xanum.uam.mx)  
 	Telegram: [@jzavalar](https://t.me/jzavalar)  
+	[ResearchGate](https://www.researchgate.net/profile/Jesus_Zavala_Ruiz)  
