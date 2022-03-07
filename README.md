@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A todos mis alumnos:
-
 Me interesa el trabajo docente desde el año 2000 en que, por primera vez, impartí una materia a nivel licenciatura en la Universidad LaSalle de la Ciudad de México. Luego, en los cinco años siguientes, impartí clases de posgrado en Computación, en distintos lugares de México, para la Fundación Arturo Rosenblueth. Esa experiencia muy grata y me llevó, de manera definitiva, a abandonar la industria y convertirme en un académico.
 
 -=***=-
@@ -45,17 +43,17 @@ Aquí se encuentran los programas de mis cursos en las licenciaturas en geograf�
 
 Por mi formación académica y experiencia profesional, ambas interdisciplinarias, y continuando mis investigaciones de la última década, he propuesto un programa de investigación con dos líneas de trabajo: la sociología del software y los estudios organizacionales, con los siguientes proyectos:  
 
-1. Sistemas empresariales de información y cambio organizacional en México: Estudios de caso. Es un proyecto paraguas para explorar la complejidad inherente a la implantación de los sistemas empresariales, llamados *Enterprise Resource Planning* (*ERP*), en organizaciones mexicanas. Por ello, se explorarán tres componentes:
+1. *Sistemas empresariales de información y cambio organizacional en México: Estudios de caso*. Es un proyecto paraguas para explorar la complejidad inherente a la implantación de los sistemas empresariales, llamados *Enterprise Resource Planning* (*ERP*), en organizaciones mexicanas. Por ello, se explorarán tres componentes:  
     
-   A. Estudios de caso de implantación de sistemas empresariales en las organizaciones mexicanas, que pretende dar cuenta de los éxitos, fracasos y desafíos, ya que tienen mala reputación alrededor del mundo y también en México.
+   a. *Estudios de caso de implantación de sistemas empresariales en las organizaciones mexicanas*. Pretende dar cuenta de los éxitos, fracasos y desafíos, ya que tienen [mala reputación alrededor del mundo](http://www.cio.com/article/2429865/enterprise-resource-planning/10-famous-erp-disasters--dustups-and-disappointments.html) y también en México.  
     
-   b. Metodología de intervención organizacional para la implantación de sistemas empresariales, para el contexto mexicano, que pretende crear una aproximación propia a partir de un enfoque psicodinámico basado en la teoría de W. R. Bion, que permita incrementar las tasas de éxito en la implantación de estos proyectos, ahora que es evidente que la gran mayoría de los fracasos se deben a causas organizacionales.
+   b. *Metodología de intervención organizacional para la implantación de sistemas empresariales, para el contexto mexicano* que pretende crear una aproximación propia a partir de un enfoque psicodinámico basado en la teoría de W. R. Bion, que permita *incrementar las tasas de éxito en la implantación de estos proyectos*, ahora que es evidente que la gran mayoría de los fracasos se deben a causas organizacionales.  
     
-   c. *ADempiere*/*iDempiere*: Un ERP todo-en-uno es un proyecto de investigación tecnológica que pretende demostrar que es una solución técnicamente sólida y económicamente viable, para la operación administrativa automatizada de cualquier empresa. El objetivo es promover el uso del software libre y del software de código abierto para fines personales, académicos y comerciales. El sistema informático estará basado en los proyectos de software Fedora, el ERP iDempiere integrado en la Suite Adaxa y OpenProject para la administración de proyectos, entre otros. Este proyecto se realizará en conjunto con profesores del Posgrado en Ciencias y Tecnologías de la Información de la División en Ciencias Básicas e Ingeniería de la Unidad Iztapalapa .
+   c. *[ADempiere](https://github.com/adempiere/adempiere)*/*[iDempiere](https://www.idempiere.org/)*: Un ERP todo-en-uno es un proyecto de investigación tecnológica que pretende demostrar que es una solución técnicamente sólida y económicamente viable, para la operación administrativa automatizada de cualquier empresa. El objetivo es promover el uso del [software libre](https://www.youtube.com/watch?v=JLp6hKlR-Xo) y del [software de código abierto](https://www.youtube.com/watch?v=49NeXUzrOdA) para fines personales, académicos y comerciales. El sistema informático estará basado en los proyectos de software [Fedora](https://getfedora.org/), el ERP *[ADempiere](https://github.com/adempiere/adempiere)* integrado en la [Suite Adaxa](https://www.adaxa.com/) y [OpenProject](https://www.openproject.org/) para la administración de proyectos, entre otros.  
 
-2. Laboratorio organizacional que pretende poner a prueba mi teoría de la auto-organización con fines de detonar el emprendimiento social de base tecnológica, con alumnos de las tres divisiones y, en conjunto con la Coordinación de Educación Virtual y el Posgrado en Ciencias y Tecnologías de la información de la División de Ciencias Básicas e Ingeniería, de la Unidad Iztapalapa.
+2. *Laboratorio organizacional* que pretende poner a prueba mi teoría de la auto-organización con fines de detonar el emprendimiento social de base tecnológica, con alumnos de las tres divisiones de la Unidad Iztapalapa.  
 
-prof. dr. Jesús Zavala Ruiz
+prof. dr. Jesús Zavala Ruiz  
 
-email: [jzr @ xanum.uam.mx](mailto:jzr@xanum.uam.mx) 
-	[Telegram](https://t.me/jzavalar)
+email: [jzr @ xanum.uam.mx](mailto:jzr@xanum.uam.mx)  
+	[Telegram](https://t.me/jzavalar)  
