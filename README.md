@@ -56,4 +56,4 @@ Por mi formación académica y experiencia profesional, ambas interdisciplinaria
 prof. dr. Jesús Zavala Ruiz  
 
 email: [jzr @ xanum.uam.mx](mailto:jzr@xanum.uam.mx)  
-	[Telegram](https://t.me/jzavalar)  
+	Telegram: [@jzavalar](https://t.me/jzavalar)  
