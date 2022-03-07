@@ -56,6 +56,6 @@ Por mi formación académica y experiencia profesional, ambas interdisciplinaria
 
 prof. dr. Jesús Zavala Ruiz  
 
-email: [jzr @ xanum.uam.mx](mailto:jzr@xanum.uam.mx)  
-	Telegram: [@jzavalar](https://t.me/jzavalar)  
-	[ResearchGate](https://www.researchgate.net/profile/Jesus_Zavala_Ruiz)  
+Correo electrónico: [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx)  
+Telegram: <img src="https://github.com/jzavalar/2211088-informatica/blob/main/telegram_logo.svg" alt="Telegram" width="3%"/> [@jzavalar](https://telegram.me/jzavalar)  
+ResearchGate: https://www.researchgate.net/profile/Jesus_Zavala_Ruiz  
