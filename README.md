@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+|###Presentación|
 
 Me interesa el trabajo docente desde el año 2000 en que, por primera vez, impartí una materia a nivel licenciatura en la Universidad LaSalle de la Ciudad de México. Luego, en los cinco años siguientes, impartí clases de posgrado en Computación, en distintos lugares de México, para la Fundación Arturo Rosenblueth. Esa experiencia muy grata y me llevó, de manera definitiva, a abandonar la industria y convertirme en un académico.
 
