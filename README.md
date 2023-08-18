@@ -20,7 +20,7 @@ Me interesa el trabajo docente desde el año 2000 en que, por primera vez, impar
 
 -=***=-
 
-<img src="https://github.com/jzavalar/jzavalar/blob/main/images/chapingo.jpg)" alt="" width="550" height="269">
+<img src="https://github.com/jzavalar/jzavalar/blob/main/images/chapingo.jpg" alt="" width="550" height="269">
 
 -=***=-
 
