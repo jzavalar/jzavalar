@@ -20,7 +20,11 @@ Me interesa el trabajo docente desde el año 2000 en que, por primera vez, impar
 
 -=***=-
 
+<<<<<<< HEAD
 <img src="https://github.com/jzavalar/jzavalar/blob/main/images/chapingo.jpg" alt="" width="550" height="269">
+=======
+<img src="https://github.com/jzavalar/jzavalar/blob/b8127a5f6c6bfcb133d1cdcd34e447236889bffb/images/chapingo.jpg)" alt="" width="550" height="269">
+>>>>>>> 00bde69102e05e50b7ca18191f7be1bd9637130e
 
 -=***=-
 
@@ -48,6 +52,10 @@ prof. dr. Jesús Zavala Ruiz
 
 Contacto: 
 Correo electrónico: [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx)  
+<<<<<<< HEAD
 Telegram: <img src="https://github.com/jzavalar/jzavalar/blob/main/images/telegram_logo.svg" alt="Telegram" width="3%"/> [@jzavalar](https://jzavalar.t.me) o https://jzavalar.t.me   
 [ResearchGate](https://www.researchgate.net/profile/Jesus_Zavala_Ruiz)  
+=======
+Telegram: <img src="https://github.com/jzavalar/Informatica/blob/main/telegram_logo.svg" alt="Telegram" width="3%"/> [@jzavalar](https://jzavalar.t.me) o https://jzavalar.t.me   
+>>>>>>> 00bde69102e05e50b7ca18191f7be1bd9637130e
 
