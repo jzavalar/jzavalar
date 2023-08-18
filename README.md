@@ -20,7 +20,7 @@ Me interesa el trabajo docente desde el año 2000 en que, por primera vez, impar
 
 -=***=-
 
-<img src="http://sgpwe.izt.uam.mx/files/users/uami/jzavalar/P1080194-r_550.jpg" alt="" width="550" height="269">
+<img src="https://github.com/jzavalar/jzavalar/blob/main/images/chapingo.jpg" alt="" width="550" height="269">
 
 -=***=-
 
@@ -48,6 +48,6 @@ prof. dr. Jesús Zavala Ruiz
 
 Contacto: 
 Correo electrónico: [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx)  
-Telegram: <img src="https://github.com/jzavalar/Informatica/blob/main/telegram_logo.svg" alt="Telegram" width="3%"/> [@jzavalar](https://jzavalar.t.me) o https://jzavalar.t.me   
+Telegram: <img src="https://github.com/jzavalar/jzavalar/blob/main/images/telegram_logo.svg" alt="Telegram" width="3%"/> [@jzavalar](https://jzavalar.t.me) o https://jzavalar.t.me   
 [ResearchGate](https://www.researchgate.net/profile/Jesus_Zavala_Ruiz)  
-[Ficha de investigador en la UAM](https://investigacion.uam.mx/index.php/listado-catalogo/63877)  
+
