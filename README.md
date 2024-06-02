@@ -24,7 +24,11 @@ Me interesa el trabajo docente desde el año 2000 en que, por primera vez, impar
 
 -=***=-
 
-Como paréntesis, confieso que mi querido maestro y mentor, el [Ing. Fernando Martínez Sáinos](https://fb.watch/kmNH1DGeXd/), doctor *honoris causa* por la [Universidad Autónoma Chapingo](https://www.youtube.com/watch?v=WGpxql_-mgg), mi *Alma Mater*, es mi inspiración. Siendo estudiante, de regreso a su casa, en la colonia Portales, en la Ciudad de México, yo platicaba con él. Ya egresado, lo visité en su casa varias ocasiones. Sus conversaciones me dejaron un profundo impacto. Puedo decir que mi querido maestro también fue generoso con su amistad. Recuerdo con nostalgia, cuando, en la sala de su casa, acompañado de un café y unas galletas, él me platicaba su visión del panorama de nuestro sufrido México y de su querido Chapingo. Sus palabras hilaban una rica conversación de recuerdos de su juventud como estudiante en los años 1930s. El maestro Sáinos falleció el 13 de enero del 2000. Asistí a su funeral en Chapingo, donde hice una guardia de honor en la [Capilla Riveriana](https://www.youtube.com/watch?v=yeN7xv-YNDI&list=RDCMUC5D42EuKCj3cvm7DM_Z-yBg&start_radio=1&rv=yeN7xv-YNDI&t=0), en Chapingo, donde se les hace el último homenage de cuerpo presente a sus maestros. A él le debo mi pasión por la *ingeniería*, que él consideraba como la *"ciencia de la resolución de problemas"*.  
+Como paréntesis, confieso que mi querido maestro y mentor, el [Ing. Fernando Martínez Sáinos](https://fb.watch/kmNH1DGeXd/), doctor *honoris causa* por la [Universidad Autónoma Chapingo](https://www.youtube.com/watch?v=WGpxql_-mgg), mi *Alma Mater*, es mi inspiración. Siendo estudiante, después de sus clases, de regreso a su casa a la colonia Portales, en la Ciudad de México, platicaba con él. Ya egresado, lo visité en su casa, varias ocasiones. Sus conversaciones me dejaron un profundo impacto. Mi querido maestro también fue generoso con su amistad.
+
+Recuerdo con nostalgia, cuando, en la sala de su casa, acompañado de un café y unas galletas, él me platicó su visión del panorama de nuestro sufrido México y de su querido Chapingo. Sus palabras hilaban una rica conversación de recuerdos de su juventud como estudiante en los años 1930s, cuando la huelga estudiantil que logró, entre otras cosas, la mejora académica de la entonces Escuela Nacional de Agricultura y la integración paritaria del entonces Consejo Directivo, hoy Consejo Universitario. A él le debo mi pasión por la *ingeniería*, que él consideraba como la *"ciencia de la resolución de problemas"*.
+
+El Maestro Sáinos, como le decíamos todos, falleció el 13 de enero del 2000. En su funeral se le hizo un último homenaje en la [Capilla Riveriana](https://www.youtube.com/watch?v=yeN7xv-YNDI&list=RDCMUC5D42EuKCj3cvm7DM_Z-yBg&start_radio=1&rv=yeN7xv-YNDI&t=0) en Chapingo, donde se les hace el último homenage de cuerpo presente a sus maestros. Tuve la oportunidad de hacer guardia de honor, por unos minutos.  
 
 Cuando abracé la docencia, él se convirtió en mi primera inspiración. Hoy aspiro a seguir su ejemplo de generosidad, al intentar cultivar mi vocación por la docencia, con la pasión que él la desplegaba en el salón de clases.   
 
@@ -51,4 +55,4 @@ prof. dr. Jesús Zavala Ruiz
 Contacto:  
 
 * Correo electrónico: [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx)  
-* Telegram: <img src="https://github.com/jzavalar/jzavalar/blob/main/images/telegram_logo.svg" alt="Telegram" width="3%"/> [@jzavalar](https://jzavalar.t.me) o https://jzavalar.t.me  
+* Telegram: <img src="https://github.com/jzavalar/jzavalar/blob/main/images/telegram_logo.svg" alt="Telegram" width="3%"/> [@jzavalar](https://jzavalar.t.me) o [https://jzavalar.t.me]  
