@@ -48,7 +48,9 @@ Por mi formación académica y experiencia profesional interdisciplinaria sigo c
     
    c. Estudio de *[ADempiere](https://github.com/adempiere/adempiere)*/*[iDempiere](https://www.idempiere.org/)*: Un ERP todo-en-uno, como proyecto eje para una solución técnicamente sólida y económicamente viable, para la operación administrativa automatizada de cualquier empresa. El objetivo es promover el uso del [software libre](https://www.youtube.com/watch?v=JLp6hKlR-Xo) y del [software de código abierto](https://www.youtube.com/watch?v=49NeXUzrOdA) para fines personales, académicos y comerciales. Los proyectos de software libre que se propueven son: [Linux Fedora](https://fedoraproject.org/), [LibreOffice](https://www.libreoffice.org/), [OnlyOffice](https://www.onlyoffice.com/), [R Project](https://www.r-project.org/), [RStudio Desktop](https://posit.co/download/rstudio-desktop/), entre otros.  
 
-2. *Laboratorio organizacional* que pretende poner a prueba mi teoría de la auto-organización con fines de detonar el emprendimiento social de base tecnológica.  
+2. *Laboratorio organizacional* que pretende poner a prueba mi teoría de la auto-organización con fines de detonar el emprendimiento social de base tecnológica.
+
+3. *Ciencia del Software* que pretende contribuir a esclarecer la ingeniería de software como un campo interdisciplinario entre ciencias de la computación y administración de proyectos, más que como una disciplina de ingeniería.   
 
 prof. dr. Jesús Zavala Ruiz  
 
